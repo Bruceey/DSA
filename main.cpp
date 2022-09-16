@@ -66,6 +66,7 @@ public:
     }
     ~Derived(){cout<<"派生类析构" << endl;}
 };
+
 int main()
 {
     int i = 9;
