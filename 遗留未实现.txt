@@ -1,0 +1,5 @@
+1. Graph图的BFS算法，及bfs可能后续会继续改进
+
+2.BTree中析构函数直接release(_root)可以递归释放所有节点吗？？？
+
+3. 红黑树的BlackHeightUpdated宏很费解，见TODO处
